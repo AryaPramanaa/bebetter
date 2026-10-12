@@ -274,7 +274,7 @@ export default function Home() {
             <p className="lead">
               Running a business is demanding enough. BeBetter is exploring
               simpler digital tools to help growing teams organize everyday
-              operations and spend more time on what matters.
+              operations and spend more time on what matters..
             </p>
             <div className="actions">
               <Button>Get Early Access</Button>
