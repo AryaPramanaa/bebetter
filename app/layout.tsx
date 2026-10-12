@@ -3,8 +3,8 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'BeBetter Business — Employee management, made simpler',
-  description: 'A practical employee management workspace for small teams to organize people, attendance, and leave requests.',
+  title: 'BeBetter Business — Better Tools for Better Businesses',
+  description: 'BeBetter is exploring practical digital tools to help small businesses simplify employee management and everyday operations.',
   metadataBase: new URL('https://example.com'),
   alternates: { canonical: '/' },
   openGraph: {
